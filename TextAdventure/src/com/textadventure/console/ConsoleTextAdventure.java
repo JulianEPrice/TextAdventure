@@ -3,7 +3,7 @@ package com.textadventure.console;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
+//Waaaaaaaaaa
 public class ConsoleTextAdventure {
 
 	String[] words = readArray("Level_0");	
